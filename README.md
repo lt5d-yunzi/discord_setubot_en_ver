@@ -1,8 +1,12 @@
 # Discord ACGN picture Robot
+
 Discord robot (https://discordapp.com/developers/applications/)
-#How to get apikey 
+# How to get apikey 
+
 Open telegram
+
 Search Robot ：@loliconApiBot
+
 Enter the following command ：
 ```
 /new
